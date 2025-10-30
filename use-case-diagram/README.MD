@@ -16,8 +16,6 @@ It ensures the user easilys books for services in the application, and shows whe
 ### Payment Intergration
 Makes sure users can make payment on the app, using some payment gate ways like pay pal or stripe and it also ensures the currency the payments will be made in 
 
-### Reviews and Ratings
-It is responsible for making sure the functionalities for messages, are implemented, users can send messages , give reviews , ratings, respond to messages on the application
 
 ### Notifications
 Ensures emails and other notifications are properly implemented in the application
